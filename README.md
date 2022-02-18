@@ -1,2 +1,7 @@
-# Project-D03
-Our Team : Peserta RSC di Progate Kelompok D03
+# Projek kelompok D03
+Anggota kelompok : 
+- Muhammad Rizky Khairullah
+- Muhammad Eka Putra Pratama
+- Muhammad Fuad Abdullah
+- Rafka Imanda Putra
+- Yulfa Lutfi Mutmainah
